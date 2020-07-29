@@ -40,6 +40,7 @@ If you'd like to take a look at the code provided with the book (mainly in Pytho
   * [OPTICS](https://github.com/mlarocca/AlgorithmsAndDataStructuresReadersContributions/tree/master/OPTICS)
 - [Graphs](https://github.com/mlarocca/AlgorithmsAndDataStructuresReadersContributions/tree/master/Graphs)
 - Optimization Algorithms
+  * [Random Sampling](https://github.com/mlarocca/AlgorithmsAndDataStructuresReadersContributions/tree/master/Random%20Sampling)
   * [Simulated Annealing](https://github.com/mlarocca/AlgorithmsAndDataStructuresReadersContributions/tree/master/Simulated%20Annealing)
   * [Genetic Algorithms](https://github.com/mlarocca/AlgorithmsAndDataStructuresReadersContributions/tree/master/Genetic%20Algorithms)
 
